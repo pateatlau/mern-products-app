@@ -29,4 +29,4 @@ npm run start
 
 ## Live Site:
 
-Visit live site at https://mern-products-app-5zf4.onrender.com/
+Visit live site at https://lalding-products.onrender.com/
